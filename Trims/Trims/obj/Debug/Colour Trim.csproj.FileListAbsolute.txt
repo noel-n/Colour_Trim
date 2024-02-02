@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Trims\Trims\bin\Debug\Trims.exe.config
+C:\Users\User\source\repos\Trims\Trims\bin\Debug\Trims.exe
+C:\Users\User\source\repos\Trims\Trims\bin\Debug\Trims.pdb
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Colour Trim.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Trims.Properties.Resources.resources
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Colour Trim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Colour Trim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Trims.exe
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Trims.pdb
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\ColourTrimmer.Form1.resources
+C:\Users\User\source\repos\Trims\Trims\obj\Debug\Trims.Form2.resources
